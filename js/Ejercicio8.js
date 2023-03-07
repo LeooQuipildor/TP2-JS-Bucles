@@ -1,12 +1,13 @@
-let numero = parseInt(prompt("Ingresar un numero entre 1 y 50"));
+let i, j;
+let numero = parseInt(prompt("Ingresar un numero entre el 1 al 50"));
 
 if (!isNaN(numero)) {
     if (numero >= 1 && numero <= 50) {
-        for (let i = numero; i >= 1; i--) {
-            for (let j = 0; j < i; j++) {
-                document.write(i);
+        for (i = 1; i <= numero; i++) {
+            for (j = 1; j <= i; j++) {
+                document.write(j);
             }
-            document.write(`<br>`);
+            document.write("<br>");
         }
     }
     else {
