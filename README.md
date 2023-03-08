@@ -2,7 +2,7 @@
 
 ![JavaScript img](https://soyhorizonte.com/wp-content/uploads/2020/10/Javascript-by-SoyHorizonte.jpg)
 
-Este repositorio contiene ejercicios propuestos por rollingcode a modo de practica de javascript
+Este repositorio contiene ejercicios propuestos por rollingcode a modo de practica de bucles en javascript
 
 ##Tecnologias / herramientas
 
@@ -18,7 +18,7 @@ Este repositorio contiene ejercicios propuestos por rollingcode a modo de practi
 ## Clonar repo
 
 ```bash
-git clone 
+git clone https://github.com/LeooQuipildor/TP2-JS-Bucles
 ```
 
 ## Como contribuir en el proyecto
